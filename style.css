@@ -1,0 +1,39 @@
+body{
+    background-image: url(./scott-webb-UjupleczBOY-unsplash.jpg);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    border: 1px solid gray;
+    border-radius: 50%;
+}
+#header{
+    text-align: center;
+    text-decoration: underline ;
+    font-style: italic;
+    font-family: 'Trebuchet MS';
+}
+p{
+    text-align:  center;
+}
+button{
+    background-color: darkslategrey;
+    border: 1px;
+    border-radius: 10%;
+    padding: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+button:hover{
+    background-color: rgb(126, 35, 118);
+}
+.docs{
+    text-align:  center;
+    margin-left: 50px;
+}
